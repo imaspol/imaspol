@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imaspol
 - 👀 I’m interested in NLP
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning MLops
 - 💞️ I’m looking to collaborate on Python open source NLP projects
 - 📫 How to reach me ...
 
